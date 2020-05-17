@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">VisitCard Generator</string>
+    <string name="label_create">Criar</string>
+    <string name="label_company">Empresa</string>
+    <string name="label_name">Nome</string>
+    <string name="label_email">Email</string>
+    <string name="message_error_name">O campo Nome deve ser preenchido</string>
+    <string name="message_error_company">O campo Empresa deve ser preenchido</string>
+    <string name="message_error_email">O campo Email deve ser preenchido</string>
+    <string name="message_error_imageview">Adicione uma foto</string>
+</resources>
